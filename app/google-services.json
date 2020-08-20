@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "400273760053",
+    "firebase_url": "https://ispy-237112.firebaseio.com",
+    "project_id": "ispy-237112",
+    "storage_bucket": "ispy-237112.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400273760053:android:359890b40baacb2d",
+        "android_client_info": {
+          "package_name": "com.example.ispyproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400273760053-pke17itravgsjvp67umv46s5g7gtjg53.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ispyproject",
+            "certificate_hash": "b9275ee22963f6b96fc3e615c60089e05604f992"
+          }
+        },
+        {
+          "client_id": "400273760053-ch264lklquub7dmdulfl3rqhslsntc9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv13sBUMHOSZYgrZCEnhik6WvuZc1uCrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400273760053-ch264lklquub7dmdulfl3rqhslsntc9p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
